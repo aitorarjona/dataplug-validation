@@ -1,0 +1,12 @@
+s3fs
+boto3
+botocore
+numpy
+pandas
+pyarrow
+smart_open
+tqdm
+ray
+laspy[lazrs,laszip]
+rasterio
+pyproj
